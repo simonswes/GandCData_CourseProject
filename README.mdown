@@ -1,8 +1,7 @@
 #Code Book
 
 ##Running run_analysis.r:
-	*8Working Directory:** Working directory must be set to "./getdata_projectfiles_UCIHAR Dataset/UCI HAR Dataset"
-	**Dir()** = [1] "activity_labels.txt" "features.txt"        "features_info.txt"   		"README.txt"          "test"                "train" 
+	**Working Directory:** getdata_projectfiles_UCIHAR Dataset must be in the current working directory
 	**Required Packages:** dplyr
 
 ##Process:
